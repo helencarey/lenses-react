@@ -61,5 +61,5 @@ The MIT License [MIT](http://opensource.org/licenses/mit-license.php)
 
 ## thanks to
 
-Sepand Ansari, Nisha Batra, Helen Carson, Amy Chen, Luke Dubois, Katie Gemmill, Mark Hansen, Justin Hendrix, Nicolae Rusan, Puneet Sabharwal, Nivvedan Selvan, NYC Media Lab
+Sepand Ansari, Nisha Batra, Helen Carey, Amy Chen, Luke Dubois, Katie Gemmill, Mark Hansen, Justin Hendrix, Nicolae Rusan, Puneet Sabharwal, Nivvedan Selvan, NYC Media Lab
 
